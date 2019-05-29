@@ -1,6 +1,6 @@
 
 ## Deep Learning using Numpy
-This repository contains the code for different deep learning techniques using Numpy. 
+This repository contains the code for different deep learning techniques using Numpy.
 
 ### Project Structure
 ```
